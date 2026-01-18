@@ -1,4 +1,4 @@
-This repository is created to facilitate the Data University 2026 Snowflake Hands On Session.
+This github repository is created to facilitate the Data University 2026 Snowflake Hands On Session.
 The primary focus is on Snowflake AI.
 As part of hands on, the participants will perform following tasks: 
 - Perform the tasks to setup the environment.
