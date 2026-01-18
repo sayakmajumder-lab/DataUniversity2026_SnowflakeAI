@@ -9,3 +9,11 @@ As part of hands on, the participants will perform following tasks:
 - Create a Cortex Agent and combine all services created beforehand.
 - Explore the services and agents using Playground and Snowflake AI.
 - Build a Streamlit app (SIS) to expose and explore the Cortex Analyst service using REST API calls.
+
+--------------------
+Data Platforms Team
+IBM CIC India
+--------------------
+amita.maitra@in.ibm.com
+vinita.jain@in.ibm.com
+sayak.majumder1@ibm.com
