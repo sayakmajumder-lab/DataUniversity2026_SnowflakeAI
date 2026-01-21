@@ -100,7 +100,7 @@ ALTER TABLE sales_intelligence.data.sales_conversations SET CHANGE_TRACKING = TR
 CREATE OR REPLACE CORTEX SEARCH SERVICE sales_conversation_search
   ON transcript_text
   ATTRIBUTES customer_name, deal_stage, sales_rep, product_line, conversation_date, deal_value
-  WAREHOUSE = sales_intelligence_wh
+  WAREHOUSE = COMPUTE_WH
   TARGET_LAG = '1 hour'
   AS (
     SELECT
